@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Grades
+comment1.params=
+comment1.target=Grades()
+comment2.params=assignmentName\ grade\ weight
+comment2.target=void\ addAssignment(java.lang.String,\ double,\ double)
+comment3.params=
+comment3.target=double\ calculateNewGrade()
+comment4.params=
+comment4.target=void\ clearGrades()
+comment5.params=
+comment5.target=void\ printGrades()
+numComments=6
